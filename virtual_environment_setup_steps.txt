@@ -1,0 +1,9 @@
+install with pip install virtualenv
+use py -m venv .venv in the project directory to create the virtualenv
+activate the virtualenv using .venv\Scripts\activate
+confirm activation with where python
+to switch projects or leave the environment use deactivate
+
+ * virtualenv is third party but has more features than venv and is more popular
+ * to isolate python version use pyenv
+ * if you need to isolate versions and use virtual environments use pyenv-virtualenv
