@@ -9,7 +9,7 @@ Future Planned Versions will use things like pagination to and other things to m
  - I will also convert this from a script into a file containing helper functions maybe housed under a class?
 
 Usage:
-    python spotify_data_storage.py
+    Only provides functions
     
 Requirements:
     - Python 3.11
