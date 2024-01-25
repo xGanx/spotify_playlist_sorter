@@ -11,5 +11,11 @@ Requirements:
     - dependencies...
 """
 
-def getRocchioSimilarity():
+def generateKCluster(songs):
+    return
+
+def rocchioSimilarity():
+    return
+
+def getKNearestCluster():
     return

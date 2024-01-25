@@ -19,8 +19,8 @@ Requirements:
 """
 
 # Imported Files
-import spotify_data_storage
-import spotify_data_fetcher
+import spotify_data_storage as sds
+import spotify_api_connector as sac
 
 import sys
 import os
@@ -33,20 +33,18 @@ import json
 
 import time
 requests_per_second = 1
-
-    
-    
-    
     
 def main():
     
     # <---------------- Fetch Song Data ---------------->
     
+    # api_conn_manager = sac.SpotifyApiConnector()
     
+    # personal_playlists = api_conn_manager.getPersonalPlaylists()
     
     # <---------------- Send into Database ---------------->
     
-    
+    db_conn_manager = sds.SpotifyDatabaseManager()
     
     return
         

@@ -1,0 +1,3295 @@
+{
+    "href": "https://api.spotify.com/v1/users/gandumb/playlists?offset=0&limit=50",
+    "items": [
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5kZdVcwp1lGvzKFdU6vqRV"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5kZdVcwp1lGvzKFdU6vqRV",
+            "id": "5kZdVcwp1lGvzKFdU6vqRV",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbd405969bfe19d83f24f82964",
+                    "width": null
+                }
+            ],
+            "name": "Flavor of the Year (2024)",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NTIsYjIzZjU0YWEwYmEzZWRlOGRmZWMxNDFjMjQxNjdjOTRmMjdjMGM3Nw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5kZdVcwp1lGvzKFdU6vqRV/tracks",
+                "total": 36
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5kZdVcwp1lGvzKFdU6vqRV"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/453J5cNQAqxUmNjWLsr5Wb"
+            },
+            "href": "https://api.spotify.com/v1/playlists/453J5cNQAqxUmNjWLsr5Wb",
+            "id": "453J5cNQAqxUmNjWLsr5Wb",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27328fedc0d342e64aeaee53d46ab67616d0000b2739b97c045d2af4d3e69e63443ab67616d0000b273fe3a12c23f04549cef0fbe84ab67616d0000b273fe3cab6c0dc2e14214943bf3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27328fedc0d342e64aeaee53d46ab67616d0000b2739b97c045d2af4d3e69e63443ab67616d0000b273fe3a12c23f04549cef0fbe84ab67616d0000b273fe3cab6c0dc2e14214943bf3",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27328fedc0d342e64aeaee53d46ab67616d0000b2739b97c045d2af4d3e69e63443ab67616d0000b273fe3a12c23f04549cef0fbe84ab67616d0000b273fe3cab6c0dc2e14214943bf3",
+                    "width": 60
+                }
+            ],
+            "name": "Climbing",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjUsMTc1OGY5OGFjNzUzYjljZmExZjkzZmI5OWZiMDcxZjRiZjI0ZDVlYg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/453J5cNQAqxUmNjWLsr5Wb/tracks",
+                "total": 22
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:453J5cNQAqxUmNjWLsr5Wb"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5Q88NinHNHHkjRRFw86D0C"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5Q88NinHNHHkjRRFw86D0C",
+            "id": "5Q88NinHNHHkjRRFw86D0C",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb1c1334b996349b4d60f3940f",
+                    "width": null
+                }
+            ],
+            "name": "Favs",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTMyLGU0ZWNiOTQxZDliN2ZhYjgzZGQ5ODJkYmQ4N2E5MjE0NzQwY2I0MzQ=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5Q88NinHNHHkjRRFw86D0C/tracks",
+                "total": 118
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5Q88NinHNHHkjRRFw86D0C"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/52PaoQBERDN9FhsuulKdWp"
+            },
+            "href": "https://api.spotify.com/v1/playlists/52PaoQBERDN9FhsuulKdWp",
+            "id": "52PaoQBERDN9FhsuulKdWp",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b273111a4efc860777cce697098bab67616d0000b27316f618d2e6fceb1c48cc698eab67616d0000b2731f9edf15e43f4c2f4938b869ab67616d0000b273e6f1c9becfcd16feaaae87a2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b273111a4efc860777cce697098bab67616d0000b27316f618d2e6fceb1c48cc698eab67616d0000b2731f9edf15e43f4c2f4938b869ab67616d0000b273e6f1c9becfcd16feaaae87a2",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b273111a4efc860777cce697098bab67616d0000b27316f618d2e6fceb1c48cc698eab67616d0000b2731f9edf15e43f4c2f4938b869ab67616d0000b273e6f1c9becfcd16feaaae87a2",
+                    "width": 60
+                }
+            ],
+            "name": "Todo",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MzksNDk5NDczOGZhYjA0NmE1Y2RlNWM2MzJkN2FjZTAzMTY3MzMwNDJmOQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/52PaoQBERDN9FhsuulKdWp/tracks",
+                "total": 38
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:52PaoQBERDN9FhsuulKdWp"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7j5o5bDmNO0NRrk5I6XXmt"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7j5o5bDmNO0NRrk5I6XXmt",
+            "id": "7j5o5bDmNO0NRrk5I6XXmt",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb07a96b998e803bc5c072fb99",
+                    "width": null
+                }
+            ],
+            "name": "Aim Training :skullemoji:",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTQsYTQzZDExYzgyZDhjY2E0N2QxMmUzYmM4OWIyYzkzNmFhYTk1ZmE0Zg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7j5o5bDmNO0NRrk5I6XXmt/tracks",
+                "total": 9
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7j5o5bDmNO0NRrk5I6XXmt"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7iXn3GpCogvYaZSFK73o3Q"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7iXn3GpCogvYaZSFK73o3Q",
+            "id": "7iXn3GpCogvYaZSFK73o3Q",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb1b69464a1f08d2757646faea",
+                    "width": null
+                }
+            ],
+            "name": "Breakcore",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjcsZTljOGM4OGRmZmM0MjgyNTMwZWUzNmZkODM3ODEzZjNjZjQwZWJjNA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7iXn3GpCogvYaZSFK73o3Q/tracks",
+                "total": 22
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7iXn3GpCogvYaZSFK73o3Q"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0bcamo9VGlsOa75EaDUNRA"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0bcamo9VGlsOa75EaDUNRA",
+            "id": "0bcamo9VGlsOa75EaDUNRA",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb902b7e64c4cc4b0b08e8acf6",
+                    "width": null
+                }
+            ],
+            "name": "Hard Bass",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Myw3MDIyODIzYzkzYzY3NTc4Yjg5OTkyMmM4NmY5YzQyMzI1ZDUwOWZj",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0bcamo9VGlsOa75EaDUNRA/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0bcamo9VGlsOa75EaDUNRA"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2mj24r1GN3aBXMG0NxU2zt"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2mj24r1GN3aBXMG0NxU2zt",
+            "id": "2mj24r1GN3aBXMG0NxU2zt",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbdf6fe32e5afdf97859994b30",
+                    "width": null
+                }
+            ],
+            "name": "Phonk",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "OSxjNDZjNmFmMmFhN2QwNTNjYzIzZjYwYzk1YmZhYTMyZjYyM2I2ZGI1",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2mj24r1GN3aBXMG0NxU2zt/tracks",
+                "total": 4
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2mj24r1GN3aBXMG0NxU2zt"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5UeZghLWmJkcU7qvmX7qce"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5UeZghLWmJkcU7qvmX7qce",
+            "id": "5UeZghLWmJkcU7qvmX7qce",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebbc0f8da684e2f244fb29f6142",
+                    "width": null
+                }
+            ],
+            "name": "Coding",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTQsZmI3ZjU2MjM5NWJjMzBiYTIxZDRkMjQyMzdmZjU3ZjA1MjFhOGE1Yg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5UeZghLWmJkcU7qvmX7qce/tracks",
+                "total": 11
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5UeZghLWmJkcU7qvmX7qce"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2vhRRtU1e4vIGInFlKJ6cR"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2vhRRtU1e4vIGInFlKJ6cR",
+            "id": "2vhRRtU1e4vIGInFlKJ6cR",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbb6c6735ccc16c4e94e46ae14",
+                    "width": null
+                }
+            ],
+            "name": "Nightcore",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTUsMDJiODVhYjVkZDhkOWEwNjBkZjViYzY3ZTdhZGIzMzRlYTZjOTcyYg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2vhRRtU1e4vIGInFlKJ6cR/tracks",
+                "total": 11
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2vhRRtU1e4vIGInFlKJ6cR"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4MVq3jByaBcqm3UhmUm6e7"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4MVq3jByaBcqm3UhmUm6e7",
+            "id": "4MVq3jByaBcqm3UhmUm6e7",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebba28f3861832bbec7758bfbe1",
+                    "width": null
+                }
+            ],
+            "name": "CS:GO",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTUsMmJjNmE5MmU1ODM4N2VmNjY4OGY2MzE1MmIwMWExODJlMTgzYjg5ZQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4MVq3jByaBcqm3UhmUm6e7/tracks",
+                "total": 11
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4MVq3jByaBcqm3UhmUm6e7"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4hrAf0zpEk08Yz8NXfBKUN"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4hrAf0zpEk08Yz8NXfBKUN",
+            "id": "4hrAf0zpEk08Yz8NXfBKUN",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb7f534846e8ea7078c50b5bc9",
+                    "width": null
+                }
+            ],
+            "name": "Gamin",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTYwLDU5MWM5Y2NlNTc5NWJhMTlmZmJhZjhmODExNGMxYzRiOTYyZDI4MDg=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4hrAf0zpEk08Yz8NXfBKUN/tracks",
+                "total": 150
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4hrAf0zpEk08Yz8NXfBKUN"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1BD7gmw0irJudsgmKViThN"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1BD7gmw0irJudsgmKViThN",
+            "id": "1BD7gmw0irJudsgmKViThN",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb74bed493f4c14abca9908142",
+                    "width": null
+                }
+            ],
+            "name": "Electronic",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NjMsNDU1ODQxY2EyNzk2Y2UzNmE3NDI3ZjhkYzkxMmU5MzUzNmY5NTg2Yg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1BD7gmw0irJudsgmKViThN/tracks",
+                "total": 59
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1BD7gmw0irJudsgmKViThN"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7qIcntwD5cWNlBvpPGLhEd"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7qIcntwD5cWNlBvpPGLhEd",
+            "id": "7qIcntwD5cWNlBvpPGLhEd",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27314aa4cfe5ecdda0497d4ff82",
+                    "width": 640
+                }
+            ],
+            "name": "Sick Cleans",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Myw4OWY0YzQ5ZGQ5NjQ5MWQxZDlkZDNkZTU0NzE5Y2U0NmI4NDUxNzZl",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7qIcntwD5cWNlBvpPGLhEd/tracks",
+                "total": 2
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7qIcntwD5cWNlBvpPGLhEd"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7rnqeOJiNL1SuKdxnPOXxp"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7rnqeOJiNL1SuKdxnPOXxp",
+            "id": "7rnqeOJiNL1SuKdxnPOXxp",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2735690e88aef77fc7d931dec3bab67616d0000b27358a4df5524f46588a1e2f473ab67616d0000b273dd375f47d8076bd8b0b0e149ab67616d0000b273fd7184863d9e8c4f076a2bc2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2735690e88aef77fc7d931dec3bab67616d0000b27358a4df5524f46588a1e2f473ab67616d0000b273dd375f47d8076bd8b0b0e149ab67616d0000b273fd7184863d9e8c4f076a2bc2",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2735690e88aef77fc7d931dec3bab67616d0000b27358a4df5524f46588a1e2f473ab67616d0000b273dd375f47d8076bd8b0b0e149ab67616d0000b273fd7184863d9e8c4f076a2bc2",
+                    "width": 60
+                }
+            ],
+            "name": "Sick Screams",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "Niw0Yzg0MjhjZDdiMmZhOGEzODY4N2ZkMWVjZDkxODQ5ZDZlZWYzMjY2",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7rnqeOJiNL1SuKdxnPOXxp/tracks",
+                "total": 5
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7rnqeOJiNL1SuKdxnPOXxp"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6iDfL9iDeSbKu0VQIpyS6q"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6iDfL9iDeSbKu0VQIpyS6q",
+            "id": "6iDfL9iDeSbKu0VQIpyS6q",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb752894435191a02a1573bd1f",
+                    "width": null
+                }
+            ],
+            "name": "Best Guitar Riffs",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "OSw4N2RjNzM4YmRhN2JjNjE5OTg0ODI2NzBhOTRiOWI2NDk0ZGJhZDQz",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6iDfL9iDeSbKu0VQIpyS6q/tracks",
+                "total": 7
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6iDfL9iDeSbKu0VQIpyS6q"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0mqHaVnez6i25deUTVEd8o"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0mqHaVnez6i25deUTVEd8o",
+            "id": "0mqHaVnez6i25deUTVEd8o",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273556db0f173827f66caf6dc8c",
+                    "width": 640
+                }
+            ],
+            "name": "Endurance",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NSwzNTMyNzA3Nzc0NmUzODg5NzYxYmY3NTM4OTExZjNlNjhiODc2Zjdl",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0mqHaVnez6i25deUTVEd8o/tracks",
+                "total": 4
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0mqHaVnez6i25deUTVEd8o"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0GfOUGsi5FuQj9BLR6vBAb"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0GfOUGsi5FuQj9BLR6vBAb",
+            "id": "0GfOUGsi5FuQj9BLR6vBAb",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b273120ba5947ebc67fb4eb2e2aaab67616d0000b2732ffa8ab10e19aaafbfc5145bab67616d0000b273c1c82c472d758f4945ac15a8ab67616d0000b273e6f1c9becfcd16feaaae87a2",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b273120ba5947ebc67fb4eb2e2aaab67616d0000b2732ffa8ab10e19aaafbfc5145bab67616d0000b273c1c82c472d758f4945ac15a8ab67616d0000b273e6f1c9becfcd16feaaae87a2",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b273120ba5947ebc67fb4eb2e2aaab67616d0000b2732ffa8ab10e19aaafbfc5145bab67616d0000b273c1c82c472d758f4945ac15a8ab67616d0000b273e6f1c9becfcd16feaaae87a2",
+                    "width": 60
+                }
+            ],
+            "name": "Chill",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTUsODZhNzYzOTc5Mzg1YjRlM2I5YTRkMjg4NWNkNTEwMzJkYTAyYzc0MQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0GfOUGsi5FuQj9BLR6vBAb/tracks",
+                "total": 13
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0GfOUGsi5FuQj9BLR6vBAb"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2xiAZa0KnEF5vLjLZyNAXr"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2xiAZa0KnEF5vLjLZyNAXr",
+            "id": "2xiAZa0KnEF5vLjLZyNAXr",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb46614d075e677a06880c9ccf",
+                    "width": null
+                }
+            ],
+            "name": "Sick!",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NzUsNzc5ZjNlOWY0YjUyNTgxMTg2Mzk2NmQ5YTBiYzBlOTJmN2VlYzkzMQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2xiAZa0KnEF5vLjLZyNAXr/tracks",
+                "total": 69
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2xiAZa0KnEF5vLjLZyNAXr"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1u7eIFwGs6KpXl0xByatqc"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1u7eIFwGs6KpXl0xByatqc",
+            "id": "1u7eIFwGs6KpXl0xByatqc",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbefeac254dc939bc9c66813b5",
+                    "width": null
+                }
+            ],
+            "name": "A Little TOO Awesome",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "OSwwMTI0N2RjMGZjMmI5OTg5ZTE2M2M2ZmIyMDg0ZmQ1ODFiNzhkMTA5",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1u7eIFwGs6KpXl0xByatqc/tracks",
+                "total": 6
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1u7eIFwGs6KpXl0xByatqc"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6LYVBBsv9VlQWnGai3kXVV"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6LYVBBsv9VlQWnGai3kXVV",
+            "id": "6LYVBBsv9VlQWnGai3kXVV",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbcafcbce5805d1e45886807b1",
+                    "width": null
+                }
+            ],
+            "name": "Longing",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "OCwzNjMxMGRjN2U1YWM2MzlmYjY5ZjE4NWY2YTI2OWY1NjBkYWRjNDBm",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6LYVBBsv9VlQWnGai3kXVV/tracks",
+                "total": 5
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6LYVBBsv9VlQWnGai3kXVV"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1ctkeLdOHEZOIDLj4c0veE"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1ctkeLdOHEZOIDLj4c0veE",
+            "id": "1ctkeLdOHEZOIDLj4c0veE",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2731cd127473c1065dceecb92d1",
+                    "width": 640
+                }
+            ],
+            "name": "That kinda mood...",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NSwxNWMwYjU0NjlkZmQwNWVhZTYyZmI1ZDg2YTM5YjZlNTkxMTRjODQ4",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1ctkeLdOHEZOIDLj4c0veE/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1ctkeLdOHEZOIDLj4c0veE"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4xHX7T7dGi3ncedvY0pMyz"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4xHX7T7dGi3ncedvY0pMyz",
+            "id": "4xHX7T7dGi3ncedvY0pMyz",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273c12c129e320d989561ce0b2c",
+                    "width": 640
+                }
+            ],
+            "name": "Percussion Ensemble",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NSw5MWY1YmY4Y2Q4YTk3MjZmOWRlNWY4ZTJjNTU1NTkzYzVjZjQyYWRk",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4xHX7T7dGi3ncedvY0pMyz/tracks",
+                "total": 3
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4xHX7T7dGi3ncedvY0pMyz"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6P06uCKfPSJ76LeO9PmtdA"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6P06uCKfPSJ76LeO9PmtdA",
+            "id": "6P06uCKfPSJ76LeO9PmtdA",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273bafd1a7d77fc861050aa82ed",
+                    "width": 640
+                }
+            ],
+            "name": "Piano",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MixjNWUyMjJjNTg0MTFlZmY1NjE4YjYzZDgwZDAyNmE1YTAwY2E5ODE0",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6P06uCKfPSJ76LeO9PmtdA/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6P06uCKfPSJ76LeO9PmtdA"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5Vzgs0T3CQwTbqwtNagc28"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5Vzgs0T3CQwTbqwtNagc28",
+            "id": "5Vzgs0T3CQwTbqwtNagc28",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27301a6faf91e207748e8e32e0aab67616d0000b2735990b7d72ab8451180f46e40ab67616d0000b2735bc80b51555d02c136e4db92ab67616d0000b2738399047ff71200928f5b6508",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27301a6faf91e207748e8e32e0aab67616d0000b2735990b7d72ab8451180f46e40ab67616d0000b2735bc80b51555d02c136e4db92ab67616d0000b2738399047ff71200928f5b6508",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27301a6faf91e207748e8e32e0aab67616d0000b2735990b7d72ab8451180f46e40ab67616d0000b2735bc80b51555d02c136e4db92ab67616d0000b2738399047ff71200928f5b6508",
+                    "width": 60
+                }
+            ],
+            "name": "Hype",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "OCxmZTVlZjZkOGZmOTAwYTJlNTg0NWVhMTk0ZjkxYWI1YzhiNzkzOTFh",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5Vzgs0T3CQwTbqwtNagc28/tracks",
+                "total": 7
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5Vzgs0T3CQwTbqwtNagc28"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/73C4BlXTbDKag9ZgQ3tLUp"
+            },
+            "href": "https://api.spotify.com/v1/playlists/73C4BlXTbDKag9ZgQ3tLUp",
+            "id": "73C4BlXTbDKag9ZgQ3tLUp",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273befc16a4731953dadb2ac151",
+                    "width": 640
+                }
+            ],
+            "name": "Wall of Sound",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NCxkYWJmYTNmNDk1NDU2ODhjZTJhZjk3M2JmZWY4MzUxYjM5Yzg0NWZh",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/73C4BlXTbDKag9ZgQ3tLUp/tracks",
+                "total": 2
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:73C4BlXTbDKag9ZgQ3tLUp"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3Yh4qDFemVunpZP0uom7e3"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3Yh4qDFemVunpZP0uom7e3",
+            "id": "3Yh4qDFemVunpZP0uom7e3",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb82a149069bb1bef44d7fa55e",
+                    "width": null
+                }
+            ],
+            "name": "VIBE",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTYsMzcxOTE3YTgwNTk1ZGE0ZjUxMWNiOTdlYjlhMDQyNTNjOTZiN2U0MA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3Yh4qDFemVunpZP0uom7e3/tracks",
+                "total": 13
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3Yh4qDFemVunpZP0uom7e3"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7uHp7xLLkHFvyKFJ7aWRcS"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7uHp7xLLkHFvyKFJ7aWRcS",
+            "id": "7uHp7xLLkHFvyKFJ7aWRcS",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb03f46695210985c33a7bd4b9",
+                    "width": null
+                }
+            ],
+            "name": "Soundtracks",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTc1LDVkMjU4NDg5ODI5ZDdiZTkzNjM3NjUyMzA3Nzg2NDU1NjQ5YzFmZTI=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7uHp7xLLkHFvyKFJ7aWRcS/tracks",
+                "total": 167
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7uHp7xLLkHFvyKFJ7aWRcS"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0zYIFBKAlKbjn560bk5aOj"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0zYIFBKAlKbjn560bk5aOj",
+            "id": "0zYIFBKAlKbjn560bk5aOj",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb1f286862614d0398a4b10c4a",
+                    "width": null
+                }
+            ],
+            "name": "Chill",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MzUsZjZmMzA1YzgxOTAyYjg0NGNhZjc5YjIzZjY4ZDM3NjViMGEwMzc2NQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0zYIFBKAlKbjn560bk5aOj/tracks",
+                "total": 31
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0zYIFBKAlKbjn560bk5aOj"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4aviCBa41VCu7S3mG1Fsrs"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4aviCBa41VCu7S3mG1Fsrs",
+            "id": "4aviCBa41VCu7S3mG1Fsrs",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb7277113f1ab75bb963682dcb",
+                    "width": null
+                }
+            ],
+            "name": "Venting",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NTgsYTMzNjZiMzQwM2QxOTdkY2M2YTM1N2YzYTc4YWM1ZTJhMTg4MDFmOA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4aviCBa41VCu7S3mG1Fsrs/tracks",
+                "total": 54
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4aviCBa41VCu7S3mG1Fsrs"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0KCSe6tn2FvAl4PhR2Nrrh"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0KCSe6tn2FvAl4PhR2Nrrh",
+            "id": "0KCSe6tn2FvAl4PhR2Nrrh",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbc52f3b453e2efd2c51ad2a3d",
+                    "width": null
+                }
+            ],
+            "name": "\u2026",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjMsMzViYmFmNTUzMmEyZWI2ZTFhNTZiOTZlNmNjNDQ2N2JiOGE2NzdiMw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0KCSe6tn2FvAl4PhR2Nrrh/tracks",
+                "total": 19
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0KCSe6tn2FvAl4PhR2Nrrh"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7k4LZUA996abDBBglNOpWp"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7k4LZUA996abDBBglNOpWp",
+            "id": "7k4LZUA996abDBBglNOpWp",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb016172e044a3c7cfbda40745",
+                    "width": null
+                }
+            ],
+            "name": "Kpop",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NDEsNTFlNWYzZjk2ZmIzZDliMjA1MDU0NzBmMDhhNzQwOTQ0OWQ3ODFiOA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7k4LZUA996abDBBglNOpWp/tracks",
+                "total": 31
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7k4LZUA996abDBBglNOpWp"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5ojEhLVIvpMr3CLMdi0qnm"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5ojEhLVIvpMr3CLMdi0qnm",
+            "id": "5ojEhLVIvpMr3CLMdi0qnm",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb4b3c2de16bcf31699037a3af",
+                    "width": null
+                }
+            ],
+            "name": "Weeb",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTQ4LDgzYzQ5MmMzODZhNGM2MTRiZmMwMTViOTRlZjczNzdjMWM5MWU2YjE=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5ojEhLVIvpMr3CLMdi0qnm/tracks",
+                "total": 106
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5ojEhLVIvpMr3CLMdi0qnm"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1ascMctFX7fQ6vpbUDfQ5M"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1ascMctFX7fQ6vpbUDfQ5M",
+            "id": "1ascMctFX7fQ6vpbUDfQ5M",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2735b924aa009b61b6b9d831eecab67616d0000b27374dc897ea75402db37ef239aab67616d0000b2739b97c045d2af4d3e69e63443ab67616d0000b273d7ecc179dbc1ee9c57c97c26",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2735b924aa009b61b6b9d831eecab67616d0000b27374dc897ea75402db37ef239aab67616d0000b2739b97c045d2af4d3e69e63443ab67616d0000b273d7ecc179dbc1ee9c57c97c26",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2735b924aa009b61b6b9d831eecab67616d0000b27374dc897ea75402db37ef239aab67616d0000b2739b97c045d2af4d3e69e63443ab67616d0000b273d7ecc179dbc1ee9c57c97c26",
+                    "width": 60
+                }
+            ],
+            "name": "R&B",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NDAsY2I5ZTA1NmJkYjQzZTc2ZjlhMTY4NjRhYWQ4NDQ4OTllNzlmMTBkZg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1ascMctFX7fQ6vpbUDfQ5M/tracks",
+                "total": 39
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1ascMctFX7fQ6vpbUDfQ5M"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1teKYCyeCr0zhw6jm5LwGu"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1teKYCyeCr0zhw6jm5LwGu",
+            "id": "1teKYCyeCr0zhw6jm5LwGu",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb79d654184cccd708f99ef99a",
+                    "width": null
+                }
+            ],
+            "name": "Asian",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "ODMsYzIwNDk3OWZkYTA2YjFmM2Q2OGNjMmVlY2FiNDRjN2VlNTdiMzZiNQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1teKYCyeCr0zhw6jm5LwGu/tracks",
+                "total": 72
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1teKYCyeCr0zhw6jm5LwGu"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/36t1pVqPuFrajqBMpoI3NC"
+            },
+            "href": "https://api.spotify.com/v1/playlists/36t1pVqPuFrajqBMpoI3NC",
+            "id": "36t1pVqPuFrajqBMpoI3NC",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb596f32f41e4af14f72e5ed30",
+                    "width": null
+                }
+            ],
+            "name": "Bands to Check Out",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NTUsYzJjZGZiMjljM2ViYTZmNzc1Njc5NDk5NTc1NmYwYzU5MjlkNmMxMw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/36t1pVqPuFrajqBMpoI3NC/tracks",
+                "total": 45
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:36t1pVqPuFrajqBMpoI3NC"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2DBGVHBAH9u60nohzBNeZ2"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2DBGVHBAH9u60nohzBNeZ2",
+            "id": "2DBGVHBAH9u60nohzBNeZ2",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb45dcdd7df9cb02b75735b5be",
+                    "width": null
+                }
+            ],
+            "name": "Local Files",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjUsZDU3MjNiYzAzZDVjODRlZjNjNWYyMGU0ZjQ5YzE2ZDhhYmQxMDA2MA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2DBGVHBAH9u60nohzBNeZ2/tracks",
+                "total": 23
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2DBGVHBAH9u60nohzBNeZ2"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4cHgikvzr9zeJwutKPEmrt"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4cHgikvzr9zeJwutKPEmrt",
+            "id": "4cHgikvzr9zeJwutKPEmrt",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27394875e23212e1eca7354b02a",
+                    "width": 640
+                }
+            ],
+            "name": "Erra",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NSxmNTczYmEwZTI1MjgwZTJjYjU5MDBhYTk3ZTgzZGZmYzFjMTkwMDc4",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4cHgikvzr9zeJwutKPEmrt/tracks",
+                "total": 2
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4cHgikvzr9zeJwutKPEmrt"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2GCkqifVKzJbW1fj4XvJN1"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2GCkqifVKzJbW1fj4XvJN1",
+            "id": "2GCkqifVKzJbW1fj4XvJN1",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27366371d0ad05c3f402d9cb2aeab67616d0000b273b35137a75245e101759a6a66ab67616d0000b273eae953b200fe1b298a6a62d3ab67616d0000b273fce3ae50618016f1fcc620f4",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27366371d0ad05c3f402d9cb2aeab67616d0000b273b35137a75245e101759a6a66ab67616d0000b273eae953b200fe1b298a6a62d3ab67616d0000b273fce3ae50618016f1fcc620f4",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27366371d0ad05c3f402d9cb2aeab67616d0000b273b35137a75245e101759a6a66ab67616d0000b273eae953b200fe1b298a6a62d3ab67616d0000b273fce3ae50618016f1fcc620f4",
+                    "width": 60
+                }
+            ],
+            "name": "EGOIST",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTEsNzAzYmQ1YTc1ZjQ3NTNjMzYxMTQyZDZjZTMwYzE1YTIwZGU0MzUyZA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2GCkqifVKzJbW1fj4XvJN1/tracks",
+                "total": 9
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2GCkqifVKzJbW1fj4XvJN1"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7hXfsrvnHt40GYLM1Fsvco"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7hXfsrvnHt40GYLM1Fsvco",
+            "id": "7hXfsrvnHt40GYLM1Fsvco",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27326ff57bc134aa594b08bf721",
+                    "width": 640
+                }
+            ],
+            "name": "The Black Keys",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NiwyYzVkYzVjNGZiYWM4NWM4MDQ3YTBiYzdlMmI4YjZmZDU5M2YxMDRj",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7hXfsrvnHt40GYLM1Fsvco/tracks",
+                "total": 5
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7hXfsrvnHt40GYLM1Fsvco"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2DAGCXoAFMn7QOTvErgi5R"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2DAGCXoAFMn7QOTvErgi5R",
+            "id": "2DAGCXoAFMn7QOTvErgi5R",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2732ddeff249efc594c59d25bccab67616d0000b2732ea4d6e27d2b1df78e4e3116ab67616d0000b27360bf87af55e62121f5a93e7bab67616d0000b273c99f3e5bd823f12998661c12",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2732ddeff249efc594c59d25bccab67616d0000b2732ea4d6e27d2b1df78e4e3116ab67616d0000b27360bf87af55e62121f5a93e7bab67616d0000b273c99f3e5bd823f12998661c12",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2732ddeff249efc594c59d25bccab67616d0000b2732ea4d6e27d2b1df78e4e3116ab67616d0000b27360bf87af55e62121f5a93e7bab67616d0000b273c99f3e5bd823f12998661c12",
+                    "width": 60
+                }
+            ],
+            "name": "Alice Merton",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTQsMGYyOTJiYTBmNmVmYzI1YzkwNmVjMzg0NjNkNGY0NjIwMjRkNGE0OQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2DAGCXoAFMn7QOTvErgi5R/tracks",
+                "total": 13
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2DAGCXoAFMn7QOTvErgi5R"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6zrcKued8JBGkd9yEDTQ4i"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6zrcKued8JBGkd9yEDTQ4i",
+            "id": "6zrcKued8JBGkd9yEDTQ4i",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2730ef539d2fb141c2d194efdb2ab67616d0000b2731310d5301e109398af531766ab67616d0000b2736ba4d02dde2fedf99e694021ab67616d0000b273e5404975c94f4d63a5bba06e",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2730ef539d2fb141c2d194efdb2ab67616d0000b2731310d5301e109398af531766ab67616d0000b2736ba4d02dde2fedf99e694021ab67616d0000b273e5404975c94f4d63a5bba06e",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2730ef539d2fb141c2d194efdb2ab67616d0000b2731310d5301e109398af531766ab67616d0000b2736ba4d02dde2fedf99e694021ab67616d0000b273e5404975c94f4d63a5bba06e",
+                    "width": 60
+                }
+            ],
+            "name": "Ocean Grove",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTcsMmQ4MDRlZGRmMWU3ZWY0ZGQ5OWI3YTFlNmE2MjM5NDM2MGMyMjMxMQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6zrcKued8JBGkd9yEDTQ4i/tracks",
+                "total": 16
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6zrcKued8JBGkd9yEDTQ4i"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2OdD1R8d9NdCuaWZNuvOq2"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2OdD1R8d9NdCuaWZNuvOq2",
+            "id": "2OdD1R8d9NdCuaWZNuvOq2",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebba9245cd56b95ef5aaa7c7cc0",
+                    "width": null
+                }
+            ],
+            "name": "Cage The Elephant",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTksN2EzMDZlMjdlNDJjOWU0MmE0OTYxZWRiZTc0OGJmYTlkOGJmYWRjOQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2OdD1R8d9NdCuaWZNuvOq2/tracks",
+                "total": 15
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2OdD1R8d9NdCuaWZNuvOq2"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0WyOIyOz1cRS3dUrg91aih"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0WyOIyOz1cRS3dUrg91aih",
+            "id": "0WyOIyOz1cRS3dUrg91aih",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2730ce982ded4d3c43c1cbd4dbcab67616d0000b273312459885c9d7b0ccd6fd65bab67616d0000b2736ee1ce23b3eef4cc40dc4f60ab67616d0000b273a6bf28854a92da178d312712",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2730ce982ded4d3c43c1cbd4dbcab67616d0000b273312459885c9d7b0ccd6fd65bab67616d0000b2736ee1ce23b3eef4cc40dc4f60ab67616d0000b273a6bf28854a92da178d312712",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2730ce982ded4d3c43c1cbd4dbcab67616d0000b273312459885c9d7b0ccd6fd65bab67616d0000b2736ee1ce23b3eef4cc40dc4f60ab67616d0000b273a6bf28854a92da178d312712",
+                    "width": 60
+                }
+            ],
+            "name": "Ghost Town",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTQsNDc4MWJlMDYzOGUwYTMwMTk5Zjg3ZWJlNWEyNGUzNmVkZmQ3OTQ4NQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0WyOIyOz1cRS3dUrg91aih/tracks",
+                "total": 13
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0WyOIyOz1cRS3dUrg91aih"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2b4LpvR0rpiPkjN1IErpwQ"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2b4LpvR0rpiPkjN1IErpwQ",
+            "id": "2b4LpvR0rpiPkjN1IErpwQ",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27318c2d8df739d22fe238ba669",
+                    "width": 640
+                }
+            ],
+            "name": "Scary Kids Scaring Kids",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTQsY2IxYWZiYThiM2E2Yjc1NzQyYWU5MzY4YTZkNWJkMDQzMzE0NWQ2OA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2b4LpvR0rpiPkjN1IErpwQ/tracks",
+                "total": 9
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2b4LpvR0rpiPkjN1IErpwQ"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1IQXjI40ePeHrnZ6bpWgBu"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1IQXjI40ePeHrnZ6bpWgBu",
+            "id": "1IQXjI40ePeHrnZ6bpWgBu",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb170bd168332d62b1f8a40303",
+                    "width": null
+                }
+            ],
+            "name": "Ice Nine Kills",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTYsY2VhMzEwYjAyN2RjNGNkMzQ5YmY0ZWE1NGNkZTI2OWMzNTBkMWZiOQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1IQXjI40ePeHrnZ6bpWgBu/tracks",
+                "total": 12
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1IQXjI40ePeHrnZ6bpWgBu"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6LwuW4BVkdT97hlpKJqFnI"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6LwuW4BVkdT97hlpKJqFnI",
+            "id": "6LwuW4BVkdT97hlpKJqFnI",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b2733fe74e3983d06026b631b99b",
+                    "width": 640
+                }
+            ],
+            "name": "I See Stars",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTAsZDhhZjZjNjEzYWYyZWU4NzEwNTZmN2VjMmMyYTZjMDVlYTZhYjY3OQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6LwuW4BVkdT97hlpKJqFnI/tracks",
+                "total": 8
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6LwuW4BVkdT97hlpKJqFnI"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4JF2wC09V3enKxprDyk2Dt"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4JF2wC09V3enKxprDyk2Dt",
+            "id": "4JF2wC09V3enKxprDyk2Dt",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebb61aa4e5875eade12a991641c",
+                    "width": null
+                }
+            ],
+            "name": "Crown The Empire",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NTMsYjUyZGY4MmMxYWE5MTc0MjI5YmFiYTAxZDdkMzk2ODM4ZDdlZjNiMg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4JF2wC09V3enKxprDyk2Dt/tracks",
+                "total": 47
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4JF2wC09V3enKxprDyk2Dt"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0Tpm6DMGqb1i2SPItbCRCv"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0Tpm6DMGqb1i2SPItbCRCv",
+            "id": "0Tpm6DMGqb1i2SPItbCRCv",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb0e9f0bf2764c5dc382479845",
+                    "width": null
+                }
+            ],
+            "name": "Dance Gavin Dance",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjAsMjQ4OGY5ZGVhZjY3YmMxMzQ0MGViZjIzZGMwZGViZDcxZmFiZTZkYQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0Tpm6DMGqb1i2SPItbCRCv/tracks",
+                "total": 17
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0Tpm6DMGqb1i2SPItbCRCv"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0MIBJBbILwRlGe6omSy27h"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0MIBJBbILwRlGe6omSy27h",
+            "id": "0MIBJBbILwRlGe6omSy27h",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb6af3f88cd96d1651f590ed45",
+                    "width": null
+                }
+            ],
+            "name": "Bad Omens",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjMsZThkZmUzZThhNjQ4ODY2MDk5Yzc4ZDE5Y2EzNTU4ZGNmZDg1ZjI2Zg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0MIBJBbILwRlGe6omSy27h/tracks",
+                "total": 20
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0MIBJBbILwRlGe6omSy27h"
+        }
+    ],
+    "limit": 50,
+    "next": "https://api.spotify.com/v1/users/gandumb/playlists?offset=50&limit=50",
+    "offset": 0,
+    "previous": null,
+    "total": 86
+}{
+    "href": "https://api.spotify.com/v1/users/gandumb/playlists?offset=50&limit=50",
+    "items": [
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3YkqjhAKFdeY4UbCunNr3F"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3YkqjhAKFdeY4UbCunNr3F",
+            "id": "3YkqjhAKFdeY4UbCunNr3F",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbc771bc616991f31916eb6f2e",
+                    "width": null
+                }
+            ],
+            "name": "Chelsea Grin",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjAsMDBjN2ZjOWQ4MjhmYTVlY2MzM2Q1M2UzZDJhMTg2MWVjZjliOTkzNg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3YkqjhAKFdeY4UbCunNr3F/tracks",
+                "total": 14
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3YkqjhAKFdeY4UbCunNr3F"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7Mpk3iuv4YD2nsivWxHfIE"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7Mpk3iuv4YD2nsivWxHfIE",
+            "id": "7Mpk3iuv4YD2nsivWxHfIE",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbccc83c5200aa859c0d33f48b",
+                    "width": null
+                }
+            ],
+            "name": "Motionless In White",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MzEsMTVmN2UyYzNiY2M1NzVkNzI0OTE4ZTgwNGJhMjE5NjI0MTFiNjgzOA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7Mpk3iuv4YD2nsivWxHfIE/tracks",
+                "total": 46
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7Mpk3iuv4YD2nsivWxHfIE"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5UPkejcJ7DGn2GInOANr6w"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5UPkejcJ7DGn2GInOANr6w",
+            "id": "5UPkejcJ7DGn2GInOANr6w",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbe023b5c10fe88b3500274e12",
+                    "width": null
+                }
+            ],
+            "name": "Attack Attack!",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjMsMDZjMTVhN2ZiNThhM2EwZGRkZGNiOGIxOWVkNTI1YWI1NDY5OGFjOQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5UPkejcJ7DGn2GInOANr6w/tracks",
+                "total": 17
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5UPkejcJ7DGn2GInOANr6w"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1R2cyGgQxCuD87zCLMQv9r"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1R2cyGgQxCuD87zCLMQv9r",
+            "id": "1R2cyGgQxCuD87zCLMQv9r",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb920811dfc834e659d208664e",
+                    "width": null
+                }
+            ],
+            "name": "Underoath",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjAsMWY2NjgxZTM4OGE4MzhkOWE5NTYyMDA0NWE2NGQ5YmM3ZTJlZDk2Ng==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1R2cyGgQxCuD87zCLMQv9r/tracks",
+                "total": 15
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1R2cyGgQxCuD87zCLMQv9r"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2zGjEh5aGelAdkSyqOYZxF"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2zGjEh5aGelAdkSyqOYZxF",
+            "id": "2zGjEh5aGelAdkSyqOYZxF",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbe1c39ff71216bed7e9893cd2",
+                    "width": null
+                }
+            ],
+            "name": "Beartooth",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MzIsMWFiNzY3OTZhYzQwOTIxNjRkNGE1OWI5YzU3NmFkZDc0ZTFlMGM0Zg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2zGjEh5aGelAdkSyqOYZxF/tracks",
+                "total": 21
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2zGjEh5aGelAdkSyqOYZxF"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/7oCfVhe8SAYOkSkbS2nOiw"
+            },
+            "href": "https://api.spotify.com/v1/playlists/7oCfVhe8SAYOkSkbS2nOiw",
+            "id": "7oCfVhe8SAYOkSkbS2nOiw",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbdb7da514992ce9ae12890d53",
+                    "width": null
+                }
+            ],
+            "name": "Of Mice and Men",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "OTgsMjAzYjY3ZWUyOWRkZTkyZGQ5NWU1NmU1ZGRlZGMxNTYyNmIzNDQyYQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/7oCfVhe8SAYOkSkbS2nOiw/tracks",
+                "total": 46
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:7oCfVhe8SAYOkSkbS2nOiw"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0n3ja4W0LKRGDRhBCKVgme"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0n3ja4W0LKRGDRhBCKVgme",
+            "id": "0n3ja4W0LKRGDRhBCKVgme",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb407ceaad46ac7d00f62b1f5d",
+                    "width": null
+                }
+            ],
+            "name": "Annisokay",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjcsMWI0Zjc5Yjg0YWU0ZTFlYTc0YTExM2FmN2JiMmQzNTNlYWQzYTdmYw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0n3ja4W0LKRGDRhBCKVgme/tracks",
+                "total": 22
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0n3ja4W0LKRGDRhBCKVgme"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5tuuX1UslZLgqFRLgKsj3e"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5tuuX1UslZLgqFRLgKsj3e",
+            "id": "5tuuX1UslZLgqFRLgKsj3e",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb667dc3d0006f9367e5d833e6",
+                    "width": null
+                }
+            ],
+            "name": "Get Scared",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NTMsY2QxM2IzYTBmYTNiMzdhNmU4MTlmZDliNTg4NzI5Njk1ODg4NTYyMw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5tuuX1UslZLgqFRLgKsj3e/tracks",
+                "total": 35
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5tuuX1UslZLgqFRLgKsj3e"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2dQWCpyKhd7os6oyLyRHVq"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2dQWCpyKhd7os6oyLyRHVq",
+            "id": "2dQWCpyKhd7os6oyLyRHVq",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb71b5df9438ae465404122eea",
+                    "width": null
+                }
+            ],
+            "name": "Make Them Suffer",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MzAsYTVmOTMwM2IyYjNkZmMyYjI3NmFhNTk2ZWVhNzAxMGExNTM3NjM4OA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2dQWCpyKhd7os6oyLyRHVq/tracks",
+                "total": 21
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2dQWCpyKhd7os6oyLyRHVq"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1dzvQx1TyK1vMPXTtCBieo"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1dzvQx1TyK1vMPXTtCBieo",
+            "id": "1dzvQx1TyK1vMPXTtCBieo",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb8ca883f04021806ba18685e2",
+                    "width": null
+                }
+            ],
+            "name": "Asking Alexandria",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjcsMzJiYmNlYzJmMTU1MWNmNDI5MDA1MmIzYWY5YmQyYjhjZTFkYjFlNg==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1dzvQx1TyK1vMPXTtCBieo/tracks",
+                "total": 20
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1dzvQx1TyK1vMPXTtCBieo"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/58hwFiNw0veyb4oi4OJf1e"
+            },
+            "href": "https://api.spotify.com/v1/playlists/58hwFiNw0veyb4oi4OJf1e",
+            "id": "58hwFiNw0veyb4oi4OJf1e",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbe94ac11cef7c4ce543327e3e",
+                    "width": null
+                }
+            ],
+            "name": "We Came As Romans",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NDIsZDgwMTQzMzQ4ZTMxMDE3MGY1YzFhMThjM2Q3OWFjNGM1ODhmYzY0MQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/58hwFiNw0veyb4oi4OJf1e/tracks",
+                "total": 35
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:58hwFiNw0veyb4oi4OJf1e"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4PWypd4FHanF7DFWf9dGDA"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4PWypd4FHanF7DFWf9dGDA",
+            "id": "4PWypd4FHanF7DFWf9dGDA",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb30f63d69f88b5b2af8d34e57",
+                    "width": null
+                }
+            ],
+            "name": "Suicide Silence",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MzEsNjc3M2M0ZTM4ZTE0MzliYzVmZDM0YjFhMGU5ZmVlZTNhN2FjNzBkZA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4PWypd4FHanF7DFWf9dGDA/tracks",
+                "total": 23
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4PWypd4FHanF7DFWf9dGDA"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4cEfJefJOAcDwiEYqDlfNe"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4cEfJefJOAcDwiEYqDlfNe",
+            "id": "4cEfJefJOAcDwiEYqDlfNe",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb460da5844f999dc6a5e55a2b",
+                    "width": null
+                }
+            ],
+            "name": "Bring Me The Horizon",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTMxLDFiNDU3MmZlODBlZTAzNzcwODE3ZGRjNmFjNDE5NmM5ZGIxNmE2ZjU=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4cEfJefJOAcDwiEYqDlfNe/tracks",
+                "total": 69
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4cEfJefJOAcDwiEYqDlfNe"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6Ask8hZvjTbt1kvpw7gmuc"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6Ask8hZvjTbt1kvpw7gmuc",
+            "id": "6Ask8hZvjTbt1kvpw7gmuc",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb8ed655ba92790f9f5052cbea",
+                    "width": null
+                }
+            ],
+            "name": "Linkin Park",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "ODAsZTI2NjE0YjBiMGM0YmRiNzFlNmZkZTM1MGM1N2E3MjM2NDU1ZDY0MQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6Ask8hZvjTbt1kvpw7gmuc/tracks",
+                "total": 35
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6Ask8hZvjTbt1kvpw7gmuc"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3LMKAMJJ8dp7Snl69MB7JO"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3LMKAMJJ8dp7Snl69MB7JO",
+            "id": "3LMKAMJJ8dp7Snl69MB7JO",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebbfb9af3116fd70979d9e02d14",
+                    "width": null
+                }
+            ],
+            "name": "Rise Against",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MzksZWY0YTQwY2I3M2JjYmRmMGI3YzgwN2VjOGY0Mjc3MDA0NjFmNWIxOA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3LMKAMJJ8dp7Snl69MB7JO/tracks",
+                "total": 34
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3LMKAMJJ8dp7Snl69MB7JO"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/4IxjfE3Uztjks1iFKrXbo2"
+            },
+            "href": "https://api.spotify.com/v1/playlists/4IxjfE3Uztjks1iFKrXbo2",
+            "id": "4IxjfE3Uztjks1iFKrXbo2",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbbce225c73e95ffbaec152a5f",
+                    "width": null
+                }
+            ],
+            "name": "Flavor of the Year (2023)",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NTMwLDhiNjhhYjJiODUwYzQ1OTYzYjM1YzVlNzBkZjkxZjI1YmE3NTQ0ZDE=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/4IxjfE3Uztjks1iFKrXbo2/tracks",
+                "total": 444
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:4IxjfE3Uztjks1iFKrXbo2"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/17wExgZYB3cMTDxiK6DbAP"
+            },
+            "href": "https://api.spotify.com/v1/playlists/17wExgZYB3cMTDxiK6DbAP",
+            "id": "17wExgZYB3cMTDxiK6DbAP",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb4c7111df4a5765b28b7160e7",
+                    "width": null
+                }
+            ],
+            "name": "Rap",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjYwLGE2NTU4OTU3OGUyNTAyNjhiYjdhMTU1ZGJjZDQ0ODUyMTNjODI5NGU=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/17wExgZYB3cMTDxiK6DbAP/tracks",
+                "total": 242
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:17wExgZYB3cMTDxiK6DbAP"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5wBVGqYKxOJ76WBF5HudWy"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5wBVGqYKxOJ76WBF5HudWy",
+            "id": "5wBVGqYKxOJ76WBF5HudWy",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb94fe29fc3c29fc8782defeb3",
+                    "width": null
+                }
+            ],
+            "name": "Flavor of the Year (2022)",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTA2MCxhYmQzYjM4MjI1NGY0ZDhlNjVhMDUyYmIxMjJlODdjOTZhMzJmYmRi",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5wBVGqYKxOJ76WBF5HudWy/tracks",
+                "total": 933
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5wBVGqYKxOJ76WBF5HudWy"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/19KxUTSuBiOKn6CXS1raDB"
+            },
+            "href": "https://api.spotify.com/v1/playlists/19KxUTSuBiOKn6CXS1raDB",
+            "id": "19KxUTSuBiOKn6CXS1raDB",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb9c2e14f6ef44bf701ad33d54",
+                    "width": null
+                }
+            ],
+            "name": "(Archived) Vibe\u2026",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MzAsZDFiZWJjZmUwZmExYWY5NGRhODFlNWZkMzhkYmM5M2U2MTkzMDI1OA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/19KxUTSuBiOKn6CXS1raDB/tracks",
+                "total": 22
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:19KxUTSuBiOKn6CXS1raDB"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5DskNdzyRTJUFiWR3tP63J"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5DskNdzyRTJUFiWR3tP63J",
+            "id": "5DskNdzyRTJUFiWR3tP63J",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27374fefed78db6d6cf4d963fdcab67616d0000b273bbf62a6a4e0d2dc85922f367ab67616d0000b273ec3d15eab5bd77027abc4b23ab67616d0000b273f94c2e9fe634da13c4bd42ce",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27374fefed78db6d6cf4d963fdcab67616d0000b273bbf62a6a4e0d2dc85922f367ab67616d0000b273ec3d15eab5bd77027abc4b23ab67616d0000b273f94c2e9fe634da13c4bd42ce",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27374fefed78db6d6cf4d963fdcab67616d0000b273bbf62a6a4e0d2dc85922f367ab67616d0000b273ec3d15eab5bd77027abc4b23ab67616d0000b273f94c2e9fe634da13c4bd42ce",
+                    "width": 60
+                }
+            ],
+            "name": "(Archived) : )",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "OTUsY2EyNTg2ZmZkYjBmNmE4MjhiMGJkMzdjYTg1MWI4YWI0OTQzMzBjMw==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5DskNdzyRTJUFiWR3tP63J/tracks",
+                "total": 90
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5DskNdzyRTJUFiWR3tP63J"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0PxY1g5OyDZLXHxzJJhRsN"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0PxY1g5OyDZLXHxzJJhRsN",
+            "id": "0PxY1g5OyDZLXHxzJJhRsN",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb84a8e589dfaaa7ac7604440d",
+                    "width": null
+                }
+            ],
+            "name": "(Archived) Fall Semester Vibes",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MzcsNDRlMzI2NjdjOTY4NGQ3ZGYwMGFiNzc5YjZmZTIxMzU2NDQzM2E1ZA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0PxY1g5OyDZLXHxzJJhRsN/tracks",
+                "total": 34
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0PxY1g5OyDZLXHxzJJhRsN"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/02up5FyLSSmFO5RnMD5uYY"
+            },
+            "href": "https://api.spotify.com/v1/playlists/02up5FyLSSmFO5RnMD5uYY",
+            "id": "02up5FyLSSmFO5RnMD5uYY",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b273257b027d29d1119ef9a66753ab67616d0000b27326f7f19c7f0381e56156c94aab67616d0000b2739acf6b678c49baec3a304adcab67616d0000b273a580073c2d23b9907a74c1b1",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b273257b027d29d1119ef9a66753ab67616d0000b27326f7f19c7f0381e56156c94aab67616d0000b2739acf6b678c49baec3a304adcab67616d0000b273a580073c2d23b9907a74c1b1",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b273257b027d29d1119ef9a66753ab67616d0000b27326f7f19c7f0381e56156c94aab67616d0000b2739acf6b678c49baec3a304adcab67616d0000b273a580073c2d23b9907a74c1b1",
+                    "width": 60
+                }
+            ],
+            "name": "Archived (Havin Fun)",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTE2LDVhOTY3MjZjYzUwOTNiNmI0OTJiYWYyZDRmZTUzMzMzZTI5Mjc1MmU=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/02up5FyLSSmFO5RnMD5uYY/tracks",
+                "total": 112
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:02up5FyLSSmFO5RnMD5uYY"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/64rrC0LMrrrkjHZ0oMMq8i"
+            },
+            "href": "https://api.spotify.com/v1/playlists/64rrC0LMrrrkjHZ0oMMq8i",
+            "id": "64rrC0LMrrrkjHZ0oMMq8i",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b273013c00ee367dd85396f79c82ab67616d0000b27309852e062db51add242d72f4ab67616d0000b273d9c8a775d206543aeac16497ab67616d0000b273dde59bfe978cefacb5656642",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b273013c00ee367dd85396f79c82ab67616d0000b27309852e062db51add242d72f4ab67616d0000b273d9c8a775d206543aeac16497ab67616d0000b273dde59bfe978cefacb5656642",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b273013c00ee367dd85396f79c82ab67616d0000b27309852e062db51add242d72f4ab67616d0000b273d9c8a775d206543aeac16497ab67616d0000b273dde59bfe978cefacb5656642",
+                    "width": 60
+                }
+            ],
+            "name": "(Archived) Depressed",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTE2LDY0MjZhZjQ3MGU5MDFmZDM2YzQ2ZTc1NmEzYTYxNmE5OGM5MWFmM2Q=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/64rrC0LMrrrkjHZ0oMMq8i/tracks",
+                "total": 110
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:64rrC0LMrrrkjHZ0oMMq8i"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2cBwSxRAVURnhmLgJNohSr"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2cBwSxRAVURnhmLgJNohSr",
+            "id": "2cBwSxRAVURnhmLgJNohSr",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2732d50a845cd4b8d7863320bffab67616d0000b2735326ff7f10653fb0800f66acab67616d0000b27374fefed78db6d6cf4d963fdcab67616d0000b273dde59bfe978cefacb5656642",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2732d50a845cd4b8d7863320bffab67616d0000b2735326ff7f10653fb0800f66acab67616d0000b27374fefed78db6d6cf4d963fdcab67616d0000b273dde59bfe978cefacb5656642",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2732d50a845cd4b8d7863320bffab67616d0000b2735326ff7f10653fb0800f66acab67616d0000b27374fefed78db6d6cf4d963fdcab67616d0000b273dde59bfe978cefacb5656642",
+                    "width": 60
+                }
+            ],
+            "name": "Archived (Chill)",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjUzLDc3YjdkMWFjZmI5NjgyMTYyYWQ0ODkxMWU1MjMwNmQ1NWE1MDkyZjM=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2cBwSxRAVURnhmLgJNohSr/tracks",
+                "total": 241
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2cBwSxRAVURnhmLgJNohSr"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0RFwcpqJjLoyHF5eLbzduL"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0RFwcpqJjLoyHF5eLbzduL",
+            "id": "0RFwcpqJjLoyHF5eLbzduL",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb7bd52a20356cd827b2226836",
+                    "width": null
+                }
+            ],
+            "name": "(Archived) Rock Climbing and Workout",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTUxLGJiMmZmZGU1OWQ5M2I3NDI5ODUzZWRkMjQ4ZGJmNTljYzkyM2M2ODc=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0RFwcpqJjLoyHF5eLbzduL/tracks",
+                "total": 93
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0RFwcpqJjLoyHF5eLbzduL"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6OCGsXggKunMgzMjHdhfjE"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6OCGsXggKunMgzMjHdhfjE",
+            "id": "6OCGsXggKunMgzMjHdhfjE",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2732aad25a7fc1a2816fc6fa0fdab67616d0000b273747736a5091823e652743b98ab67616d0000b273a91c10fe9472d9bd89802e5aab67616d0000b273e1817c1ab3568c2ac9fdd5a5",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2732aad25a7fc1a2816fc6fa0fdab67616d0000b273747736a5091823e652743b98ab67616d0000b273a91c10fe9472d9bd89802e5aab67616d0000b273e1817c1ab3568c2ac9fdd5a5",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2732aad25a7fc1a2816fc6fa0fdab67616d0000b273747736a5091823e652743b98ab67616d0000b273a91c10fe9472d9bd89802e5aab67616d0000b273e1817c1ab3568c2ac9fdd5a5",
+                    "width": 60
+                }
+            ],
+            "name": "Vibe (Spring 2022)",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjcsNzBlMjFjNTFjZDQ1YTE1MTA4OTQ0ZjVlZjllMWM2MzQyYjUxMzFkNQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6OCGsXggKunMgzMjHdhfjE/tracks",
+                "total": 26
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6OCGsXggKunMgzMjHdhfjE"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2jDaJM7aCG0IneB4pHV7aN"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2jDaJM7aCG0IneB4pHV7aN",
+            "id": "2jDaJM7aCG0IneB4pHV7aN",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb743e0e5a7bffc928333a5a68",
+                    "width": null
+                }
+            ],
+            "name": "(Archived) Rock",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NDQzLDRhYjlhYzgwNWMzZWYxMWZjZjI0ZWJlMDAzY2NjNzIzMTQ2ODU3ODQ=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2jDaJM7aCG0IneB4pHV7aN/tracks",
+                "total": 282
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2jDaJM7aCG0IneB4pHV7aN"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2CCJ9lKqz9LQPIezbseuWZ"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2CCJ9lKqz9LQPIezbseuWZ",
+            "id": "2CCJ9lKqz9LQPIezbseuWZ",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb463089690cb97dca6da31760",
+                    "width": null
+                }
+            ],
+            "name": "(Archived) Chill Rock",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTEwLDlhOGE4N2JmMmVlZTY2MzYxOWRjMjZiYzNmN2FmM2E3NzdlYzc3Y2U=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2CCJ9lKqz9LQPIezbseuWZ/tracks",
+                "total": 70
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2CCJ9lKqz9LQPIezbseuWZ"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1O7ndBmrw6a9CYjF5tYOmH"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1O7ndBmrw6a9CYjF5tYOmH",
+            "id": "1O7ndBmrw6a9CYjF5tYOmH",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb73b78f03e38e62871846f182",
+                    "width": null
+                }
+            ],
+            "name": "(Archived) Go Freaking Crazy!!!",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "ODkwLDhlOGUwN2NlOGU5OTI2YzIwZjY2ZGJjNzllMTFmMTM2Y2ZhMzdhNjc=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1O7ndBmrw6a9CYjF5tYOmH/tracks",
+                "total": 718
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1O7ndBmrw6a9CYjF5tYOmH"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/3Dn6stURYzklVFT4GUIGxF"
+            },
+            "href": "https://api.spotify.com/v1/playlists/3Dn6stURYzklVFT4GUIGxF",
+            "id": "3Dn6stURYzklVFT4GUIGxF",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2735a89b59fec31efd8f780a6bbab67616d0000b2735f1590fb5d2f9e1bed8bb2e8ab67616d0000b27360cf7c8dd93815ccd6cb4830ab67616d0000b273ca625e24d1077176e0363c2f",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2735a89b59fec31efd8f780a6bbab67616d0000b2735f1590fb5d2f9e1bed8bb2e8ab67616d0000b27360cf7c8dd93815ccd6cb4830ab67616d0000b273ca625e24d1077176e0363c2f",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2735a89b59fec31efd8f780a6bbab67616d0000b2735f1590fb5d2f9e1bed8bb2e8ab67616d0000b27360cf7c8dd93815ccd6cb4830ab67616d0000b273ca625e24d1077176e0363c2f",
+                    "width": 60
+                }
+            ],
+            "name": "(Archived) Sick Guitar Stuff",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjMsNzNlZmU0Y2E0MTI3MzE3NTQ1Y2U2Y2FlYzc5Y2JkZTJmNTdhZjU4YQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/3Dn6stURYzklVFT4GUIGxF/tracks",
+                "total": 20
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:3Dn6stURYzklVFT4GUIGxF"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1xT7Qd7AhWeogn8DJhZalT"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1xT7Qd7AhWeogn8DJhZalT",
+            "id": "1xT7Qd7AhWeogn8DJhZalT",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27360cf7c8dd93815ccd6cb4830ab67616d0000b27365a49a200a1c05b67b3ec763ab67616d0000b273af71e889d130283bcd08b8a7ab67616d0000b273fef6a4164c3a21de1edc7083",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27360cf7c8dd93815ccd6cb4830ab67616d0000b27365a49a200a1c05b67b3ec763ab67616d0000b273af71e889d130283bcd08b8a7ab67616d0000b273fef6a4164c3a21de1edc7083",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27360cf7c8dd93815ccd6cb4830ab67616d0000b27365a49a200a1c05b67b3ec763ab67616d0000b273af71e889d130283bcd08b8a7ab67616d0000b273fef6a4164c3a21de1edc7083",
+                    "width": 60
+                }
+            ],
+            "name": "(Archived) Havin Fun",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTYsNTBjMjRkZTAzNjRlY2MyOGFiOGVjYTUyNjBlZjk5M2FlYmZjZmVhZA==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1xT7Qd7AhWeogn8DJhZalT/tracks",
+                "total": 14
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1xT7Qd7AhWeogn8DJhZalT"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0BZ0G8fACOvz5TNjpmhgEt"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0BZ0G8fACOvz5TNjpmhgEt",
+            "id": "0BZ0G8fACOvz5TNjpmhgEt",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2733d7eddd9401e833c32809674ab67616d0000b2734475b69a7be22e08636a1e97ab67616d0000b2737b84994d656fe1683df19ec4ab67616d0000b273d00e504004a48159ac896b64",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2733d7eddd9401e833c32809674ab67616d0000b2734475b69a7be22e08636a1e97ab67616d0000b2737b84994d656fe1683df19ec4ab67616d0000b273d00e504004a48159ac896b64",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2733d7eddd9401e833c32809674ab67616d0000b2734475b69a7be22e08636a1e97ab67616d0000b2737b84994d656fe1683df19ec4ab67616d0000b273d00e504004a48159ac896b64",
+                    "width": 60
+                }
+            ],
+            "name": "(Archived) Alt & Pop Rock",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjAxLDZlNmQxMmIwM2EzNjJjNmQ4YTkzNDIxMzZmYjIyNTdiNzA0Njc2YTk=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0BZ0G8fACOvz5TNjpmhgEt/tracks",
+                "total": 192
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0BZ0G8fACOvz5TNjpmhgEt"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/6wdGoE2Jt2n8aEIR38dDEc"
+            },
+            "href": "https://api.spotify.com/v1/playlists/6wdGoE2Jt2n8aEIR38dDEc",
+            "id": "6wdGoE2Jt2n8aEIR38dDEc",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbc2e73a4fd50f5aa7d6b3d833",
+                    "width": null
+                }
+            ],
+            "name": "(Archived) Soundtracks",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTA5LDg5YmE2NTBhM2VkZjJhMTQ2NWYxNmViMjUyOTgyYjI5MTcwNTFmOGE=",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/6wdGoE2Jt2n8aEIR38dDEc/tracks",
+                "total": 69
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:6wdGoE2Jt2n8aEIR38dDEc"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/5KpKHjPBsr8p1KOAhke3C8"
+            },
+            "href": "https://api.spotify.com/v1/playlists/5KpKHjPBsr8p1KOAhke3C8",
+            "id": "5KpKHjPBsr8p1KOAhke3C8",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbc334fff5554c3b614854fac0",
+                    "width": null
+                }
+            ],
+            "name": "(Archived) Bing Bang Boom",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MTI3NCw5NzkxMzNiM2Q3MWY4ODA2NGQ5Njk3ZThlM2YyOWNlMzY2ZmNhM2Vk",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/5KpKHjPBsr8p1KOAhke3C8/tracks",
+                "total": 993
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:5KpKHjPBsr8p1KOAhke3C8"
+        },
+        {
+            "collaborative": false,
+            "description": "Spotify Wrapped presents the songs that you loved most this year.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1EUMDoJuT8yJsl"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EUMDoJuT8yJsl",
+            "id": "37i9dQZF1EUMDoJuT8yJsl",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://lineup-images.scdn.co/wrapped-2021-top100_LARGE-en.jpg",
+                    "width": null
+                }
+            ],
+            "name": "Your Top Songs 2021",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MCwwMDAwMDAwMDA5NGVhY2Q5M2FmMWI1OWE1NjVlYWU5NjBlMzExMWVm",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EUMDoJuT8yJsl/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1EUMDoJuT8yJsl"
+        },
+        {
+            "collaborative": false,
+            "description": "The songs you loved most this year, all wrapped up.",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/37i9dQZF1EM43wc5qKdTpn"
+            },
+            "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EM43wc5qKdTpn",
+            "id": "37i9dQZF1EM43wc5qKdTpn",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://lineup-images.scdn.co/wrapped-2020-top100_LARGE-en.jpg",
+                    "width": null
+                }
+            ],
+            "name": "Your Top Songs 2020",
+            "owner": {
+                "display_name": "Spotify",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/spotify"
+                },
+                "href": "https://api.spotify.com/v1/users/spotify",
+                "id": "spotify",
+                "type": "user",
+                "uri": "spotify:user:spotify"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjY3NzQ2NjMsMDAwMDAwMDA4NWIwM2E5ODhmNmVjMGU2ZDU5MjAyNjM2NWE5OGU1YQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EM43wc5qKdTpn/tracks",
+                "total": 100
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:37i9dQZF1EM43wc5qKdTpn"
+        }
+    ],
+    "limit": 50,
+    "next": null,
+    "offset": 50,
+    "previous": "https://api.spotify.com/v1/users/gandumb/playlists?offset=0&limit=50",
+    "total": 86
+}

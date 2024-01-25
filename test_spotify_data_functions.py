@@ -15,7 +15,7 @@ Requirements:
     https://docs.pytest.org/en/7.1.x/contents.html
 """
 
-import spotify_data_fetcher
+import spotify_api_connector
 
 #import pytest
 import unittest
