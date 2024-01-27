@@ -15,19 +15,30 @@ Requirements:
     - Python 3.11
     - dependencies...
     - Postgres Database credentials
+    
+    
+Links:
+    https://www.psycopg.org/psycopg3/docs/basic/usage.html
 """
 """
 Notes:
  * Is there anything I should specify when creating a database? (connection limit, encoding, template?)
+ ! need to add logging and exception handling
+ ! need to implement async and await for asynchronous functionality
+ ! index tables?
 """
-
-
 # Imports used for loading environment variables
 import os
 from dotenv import load_dotenv
 
+# Typing used for Class Readability
+from typing import List
+
 # Postgres Database adapater
 import psycopg
+
+# Import Table Schemas
+from schema_definitions import table_schema_1, table_schema_2
 
 class SpotifyDatabaseManager:
     def __init__(self, dbname='dev_spotify_data_db', user='postgres', host='localhost', port='5432') -> None:
@@ -36,36 +47,45 @@ class SpotifyDatabaseManager:
         self.host = host
         self.port = port
         
+        self._checkDatabaseExistence()
+        
+        
+            
+    def _checkDatabaseExistence(self) -> None:
+        result = True
+        
         # Connect to postgres server
-        with psycopg.connect(
+        with psycopg.connect( # psycopg automatically commits or rolls back at end of block
             user=self.user,
             password=os.getenv('DB_PASSWORD'),
             host=self.host,
             port=self.port) as conn:
             
-            with conn.cursor() as cur:
-                cur.execute(f'SELECT EXISTS ( SELECT datname FROM pg_database WHERE datname=\'{dbname}\');')
-        
-        db_exists = True
-        
-        if db_exists:
-            self._createDB()
+            with conn.cursor() as cur: # psycopg automatically closes cursor at end of block
+                cur.execute(f'SELECT EXISTS ( SELECT datname FROM pg_database WHERE datname=\'{self.dbname}\')')
                 
+                result = cur.fetchone()
+            
+        if result[0] is False:
+            self._createDB()
         
+    def _createDatabase(self) -> None:
         
-        
-    def _createDB(self):
-        conn = psycopg.connect(
+        with psycopg.connect(
             user=self.user,
             password=os.getenv('DB_PASSWORD'),
             host=self.host,
-            port=self.port
-        )
-        cursor = conn.cursor()
-        try:
-            print(f'Creating the database {self.dbname}')
-            cursor.execute(f'CREATE DATABASE {self.dbname};')
-            print('Database created')
-        finally:
-            if cursor is not None:
-                cursor.close() 
+            port=self.port,
+            autocommit=True) as conn:
+            
+            with conn.cursor() as cur:
+                cur.execute(f'CREATE DATABASE {self.dbname}')
+                
+    def _checkTableExists():
+        pass
+                
+    def _createTable(schema):
+        pass
+    
+    
+            

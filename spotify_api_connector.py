@@ -90,51 +90,44 @@ class SpotifyApiConnector():
             if cursor > num_playlists:
                 return user_playlists
 
-    # def getPlaylistSongs(playlist_id):
-    #     songs = []
+    def getPlaylistSongs(self, playlist_id):
+        jsonDump = open('Spotify_JSON_Data/playlistSongs.json','w')
+        songs = []
         
-    #     try:
-    #         results = sp_client.playlist_tracks(playlist_id=playlist_id)
-    #         jsonDump.write(json.dumps(results, indent=4))
-    #     except spotipy.client.SpotifyException as err:
-    #             print(err)
-    #             sys.exit(1)
+        try:
+            results = self._sp_client.playlist_tracks(playlist_id=playlist_id)
+            jsonDump.write(json.dumps(results, indent=4))
+        except spotipy.client.SpotifyException as err:
+                print(err)
+                sys.exit(1)
         
-    #     # print(json.dumps(results, indent=4))
+        # print(json.dumps(results, indent=4))
         
-    #     # print(results['items'])
+        # print(results['items'])
         
-    #     tracks = results['items']
+        tracks = results['items']
         
-    #     for track in tracks:
-    #         # print((track['track']['name'],track['track']['id']))
-    #         if track['track']['id'] is None:
-    #             continue
-    #         songs.append((track['track']['name'],track['track']['id']))
+        for track in tracks:
+            # print((track['track']['name'],track['track']['id']))
+            if track['track']['id'] is None:
+                continue
+            songs.append((track['track']['name'],track['track']['id']))
         
-    #     return songs
+        return songs
 
-    # def getSongFeatures(song_name, song_id):
-    #     global features_to_get
+    def getSongFeatures(self, song_name, song_id):
+        jsonDump = open('Spotify_JSON_Data/songFeatures.json','w')
         
-    #     print(f'Getting the features for {song_name}...')
+        print(f'Getting the features for {song_name}...')
         
-    #     try:
-    #         response = sp_client.audio_features((song_id))
-    #         jsonDump.write(json.dumps(response, indent=4))
-    #     except spotipy.client.SpotifyException as err:
-    #             print(err)
-    #             sys.exit(1)
-        
-    #     features = dict()
-    #     for feature in features_to_get:
-    #         features[feature] = response[0][feature]
-        
-    #     # print(response)
-        
-    #     # print(features)
-        
-    #     return features
+        try:
+            response = self._sp_client.audio_features((song_id))
+            jsonDump.write(json.dumps(response, indent=4))
+        except spotipy.client.SpotifyException as err:
+                print(err)
+                sys.exit(1)
+
+        return response
 
     # def addSongToPlaylist(playlist_id, song_id, playlist_name, song_name):
     #     print(f'Adding {song_name} to the playlist {playlist_name}...')

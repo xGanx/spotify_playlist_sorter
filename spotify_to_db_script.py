@@ -38,13 +38,17 @@ def main():
     
     # <---------------- Fetch Song Data ---------------->
     
-    # api_conn_manager = sac.SpotifyApiConnector()
+    api_conn_manager = sac.SpotifyApiConnector()
     
-    # personal_playlists = api_conn_manager.getPersonalPlaylists()
+    personal_playlists = api_conn_manager.getPersonalPlaylists()
+    
+    playlists_songs = api_conn_manager.getPlaylistSongs('453J5cNQAqxUmNjWLsr5Wb')
+    
+    song_features = api_conn_manager.getSongFeatures('','7BqmQ54vDvvZgW689b2SQ2')
     
     # <---------------- Send into Database ---------------->
     
-    db_conn_manager = sds.SpotifyDatabaseManager()
+    # db_conn_manager = sds.SpotifyDatabaseManager()
     
     return
         

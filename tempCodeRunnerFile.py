@@ -1,2 +1,2 @@
 
-def main():
+requests_per_second = 1
