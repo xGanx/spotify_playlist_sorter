@@ -19,7 +19,7 @@ Requirements:
 """
 
 # Imported Files
-import spotify_data_storage as sds
+import spotify_data_to_db as sds
 import spotify_api_connector as sac
 
 import sys
@@ -48,7 +48,9 @@ def main():
     
     # <---------------- Send into Database ---------------->
     
-    # db_conn_manager = sds.SpotifyDatabaseManager()
+    db_conn_manager = sds.SpotifyDatabaseManager()
+    
+    
     
     return
         

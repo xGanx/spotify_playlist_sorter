@@ -29,10 +29,10 @@
             },
             "primary_color": null,
             "public": true,
-            "snapshot_id": "NTQsMjEzN2FmZTNhNzRiY2YwNTc5OTI5NGVmMWUyZWQwYjA3YmI1NGM0YQ==",
+            "snapshot_id": "MTI1LGViZGY1MGQ1NjdkNDJhOThkMWMzMWU3MDBkNzE0MjZjYjc4NDkzNTM=",
             "tracks": {
                 "href": "https://api.spotify.com/v1/playlists/5kZdVcwp1lGvzKFdU6vqRV/tracks",
-                "total": 38
+                "total": 97
             },
             "type": "playlist",
             "uri": "spotify:playlist:5kZdVcwp1lGvzKFdU6vqRV"
@@ -111,10 +111,10 @@
             },
             "primary_color": null,
             "public": true,
-            "snapshot_id": "MTMyLGU0ZWNiOTQxZDliN2ZhYjgzZGQ5ODJkYmQ4N2E5MjE0NzQwY2I0MzQ=",
+            "snapshot_id": "MTMzLGUyOGY4NjhjMWUzODk4YjY3MTY3ZGI0YjQwNjg3ZWVhNzM3NmYzMGE=",
             "tracks": {
                 "href": "https://api.spotify.com/v1/playlists/5Q88NinHNHHkjRRFw86D0C/tracks",
-                "total": 118
+                "total": 119
             },
             "type": "playlist",
             "uri": "spotify:playlist:5Q88NinHNHHkjRRFw86D0C"
@@ -169,6 +169,88 @@
             "collaborative": false,
             "description": "",
             "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/0ForipSohJ0L9QQJDfET87"
+            },
+            "href": "https://api.spotify.com/v1/playlists/0ForipSohJ0L9QQJDfET87",
+            "id": "0ForipSohJ0L9QQJDfET87",
+            "images": [
+                {
+                    "height": null,
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbb2c49dba0d1853ebc7dcde52",
+                    "width": null
+                }
+            ],
+            "name": "Total War Warhammer Time",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "NCw0YzgyNzViNTE4YzBkMmMwMzE5YzZlNjk5MWYzYmE5YzBlNGE1YTIy",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/0ForipSohJ0L9QQJDfET87/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:0ForipSohJ0L9QQJDfET87"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/1xvJQckn2nDeVAXboLTlK1"
+            },
+            "href": "https://api.spotify.com/v1/playlists/1xvJQckn2nDeVAXboLTlK1",
+            "id": "1xvJQckn2nDeVAXboLTlK1",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2735f3e6756d4be1c120ade4551ab67616d0000b273765fcfb87a5492644590b77dab67616d0000b27399032fb8f635178a154db1cbab67616d0000b2739f665d7ce988b71f248299c3",
+                    "width": 640
+                },
+                {
+                    "height": 300,
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2735f3e6756d4be1c120ade4551ab67616d0000b273765fcfb87a5492644590b77dab67616d0000b27399032fb8f635178a154db1cbab67616d0000b2739f665d7ce988b71f248299c3",
+                    "width": 300
+                },
+                {
+                    "height": 60,
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2735f3e6756d4be1c120ade4551ab67616d0000b273765fcfb87a5492644590b77dab67616d0000b27399032fb8f635178a154db1cbab67616d0000b2739f665d7ce988b71f248299c3",
+                    "width": 60
+                }
+            ],
+            "name": "Gamin 2024",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MjYsZDBhNjVkMDE4MWIwMTlhYTg1ZDM1MjY3NTMwMmM0NTNlMGQ1Mjc3OQ==",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/1xvJQckn2nDeVAXboLTlK1/tracks",
+                "total": 22
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:1xvJQckn2nDeVAXboLTlK1"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
                 "spotify": "https://open.spotify.com/playlist/7j5o5bDmNO0NRrk5I6XXmt"
             },
             "href": "https://api.spotify.com/v1/playlists/7j5o5bDmNO0NRrk5I6XXmt",
@@ -193,10 +275,10 @@
             },
             "primary_color": null,
             "public": true,
-            "snapshot_id": "MTQsYTQzZDExYzgyZDhjY2E0N2QxMmUzYmM4OWIyYzkzNmFhYTk1ZmE0Zg==",
+            "snapshot_id": "MTgsMWE1MTUwYmY5ZjY1M2FkOGQ0ZjM0ZmRmYTg4NDk3MzI5ZGE3ZDAzNQ==",
             "tracks": {
                 "href": "https://api.spotify.com/v1/playlists/7j5o5bDmNO0NRrk5I6XXmt/tracks",
-                "total": 9
+                "total": 11
             },
             "type": "playlist",
             "uri": "spotify:playlist:7j5o5bDmNO0NRrk5I6XXmt"
@@ -229,10 +311,10 @@
             },
             "primary_color": null,
             "public": true,
-            "snapshot_id": "MjcsZTljOGM4OGRmZmM0MjgyNTMwZWUzNmZkODM3ODEzZjNjZjQwZWJjNA==",
+            "snapshot_id": "MjgsMTRhMTMyOWFjZDcxYWJmNThlNGMwZmNlYWJjNGMzZTI5ZTBkOTM3Nw==",
             "tracks": {
                 "href": "https://api.spotify.com/v1/playlists/7iXn3GpCogvYaZSFK73o3Q/tracks",
-                "total": 22
+                "total": 23
             },
             "type": "playlist",
             "uri": "spotify:playlist:7iXn3GpCogvYaZSFK73o3Q"
@@ -284,7 +366,7 @@
             "images": [
                 {
                     "height": null,
-                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbdf6fe32e5afdf97859994b30",
+                    "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebbdf6fe32e5afdf97859994b30",
                     "width": null
                 }
             ],
@@ -373,10 +455,10 @@
             },
             "primary_color": null,
             "public": true,
-            "snapshot_id": "MTUsMDJiODVhYjVkZDhkOWEwNjBkZjViYzY3ZTdhZGIzMzRlYTZjOTcyYg==",
+            "snapshot_id": "MTYsOTM2ZGM3MDJjYWE3N2M1ZGE4YmU4ZjY2ZDhmMGRhOGVlMGYzYjUxNA==",
             "tracks": {
                 "href": "https://api.spotify.com/v1/playlists/2vhRRtU1e4vIGInFlKJ6cR/tracks",
-                "total": 11
+                "total": 12
             },
             "type": "playlist",
             "uri": "spotify:playlist:2vhRRtU1e4vIGInFlKJ6cR"
@@ -432,7 +514,7 @@
                     "width": null
                 }
             ],
-            "name": "Gamin",
+            "name": "Gamin 2023",
             "owner": {
                 "display_name": "Gan",
                 "external_urls": {
@@ -445,10 +527,10 @@
             },
             "primary_color": null,
             "public": true,
-            "snapshot_id": "MTYwLDU5MWM5Y2NlNTc5NWJhMTlmZmJhZjhmODExNGMxYzRiOTYyZDI4MDg=",
+            "snapshot_id": "MTYyLDgzMjg2YmIzZjdkOTMzOGY2ODRlMmM3OTJjNGJlMjAxODIzNDlhMGI=",
             "tracks": {
                 "href": "https://api.spotify.com/v1/playlists/4hrAf0zpEk08Yz8NXfBKUN/tracks",
-                "total": 150
+                "total": 151
             },
             "type": "playlist",
             "uri": "spotify:playlist:4hrAf0zpEk08Yz8NXfBKUN"
@@ -464,7 +546,7 @@
             "images": [
                 {
                     "height": null,
-                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb74bed493f4c14abca9908142",
+                    "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebb74bed493f4c14abca9908142",
                     "width": null
                 }
             ],
@@ -481,10 +563,10 @@
             },
             "primary_color": null,
             "public": true,
-            "snapshot_id": "NjMsNDU1ODQxY2EyNzk2Y2UzNmE3NDI3ZjhkYzkxMmU5MzUzNmY5NTg2Yg==",
+            "snapshot_id": "NjUsYWU4ZDE2MzdmNDNjNzUxYzc3NWJmNjE0MDk1ZjRhZDNiYTU2YzEwYw==",
             "tracks": {
                 "href": "https://api.spotify.com/v1/playlists/1BD7gmw0irJudsgmKViThN/tracks",
-                "total": 59
+                "total": 61
             },
             "type": "playlist",
             "uri": "spotify:playlist:1BD7gmw0irJudsgmKViThN"
@@ -599,10 +681,10 @@
             },
             "primary_color": null,
             "public": true,
-            "snapshot_id": "OSw4N2RjNzM4YmRhN2JjNjE5OTg0ODI2NzBhOTRiOWI2NDk0ZGJhZDQz",
+            "snapshot_id": "MTAsZTgzNzQ0YjJjYTk3MmI3NzZkMTc0OGJjYWQxNjE4YTg2ZTIxZDJmMQ==",
             "tracks": {
                 "href": "https://api.spotify.com/v1/playlists/6iDfL9iDeSbKu0VQIpyS6q/tracks",
-                "total": 7
+                "total": 8
             },
             "type": "playlist",
             "uri": "spotify:playlist:6iDfL9iDeSbKu0VQIpyS6q"
@@ -681,10 +763,10 @@
             },
             "primary_color": null,
             "public": true,
-            "snapshot_id": "MTUsODZhNzYzOTc5Mzg1YjRlM2I5YTRkMjg4NWNkNTEwMzJkYTAyYzc0MQ==",
+            "snapshot_id": "MTYsZWE2NGQ1NmFlYTJkNDYyZmM4NjVlNDdlYTMwMjk1Njk3ZmM4NGFiZA==",
             "tracks": {
                 "href": "https://api.spotify.com/v1/playlists/0GfOUGsi5FuQj9BLR6vBAb/tracks",
-                "total": 13
+                "total": 14
             },
             "type": "playlist",
             "uri": "spotify:playlist:0GfOUGsi5FuQj9BLR6vBAb"
@@ -724,6 +806,42 @@
             },
             "type": "playlist",
             "uri": "spotify:playlist:2xiAZa0KnEF5vLjLZyNAXr"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2IUQL1eWmGAWpyWmp3Salr"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2IUQL1eWmGAWpyWmp3Salr",
+            "id": "2IUQL1eWmGAWpyWmp3Salr",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b27398f415abb90d728279f056ac",
+                    "width": 640
+                }
+            ],
+            "name": "Thinking",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MyxkOTk5ODFjZTFiMDRiMGFhZDU2NWRkYzliNWRmNWZjNGE3NDNjNTBk",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2IUQL1eWmGAWpyWmp3Salr/tracks",
+                "total": 2
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2IUQL1eWmGAWpyWmp3Salr"
         },
         {
             "collaborative": false,
@@ -772,7 +890,7 @@
             "images": [
                 {
                     "height": null,
-                    "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebbcafcbce5805d1e45886807b1",
+                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbcafcbce5805d1e45886807b1",
                     "width": null
                 }
             ],
@@ -796,42 +914,6 @@
             },
             "type": "playlist",
             "uri": "spotify:playlist:6LYVBBsv9VlQWnGai3kXVV"
-        },
-        {
-            "collaborative": false,
-            "description": "",
-            "external_urls": {
-                "spotify": "https://open.spotify.com/playlist/1ctkeLdOHEZOIDLj4c0veE"
-            },
-            "href": "https://api.spotify.com/v1/playlists/1ctkeLdOHEZOIDLj4c0veE",
-            "id": "1ctkeLdOHEZOIDLj4c0veE",
-            "images": [
-                {
-                    "height": 640,
-                    "url": "https://i.scdn.co/image/ab67616d0000b2731cd127473c1065dceecb92d1",
-                    "width": 640
-                }
-            ],
-            "name": "That kinda mood...",
-            "owner": {
-                "display_name": "Gan",
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/user/gandumb"
-                },
-                "href": "https://api.spotify.com/v1/users/gandumb",
-                "id": "gandumb",
-                "type": "user",
-                "uri": "spotify:user:gandumb"
-            },
-            "primary_color": null,
-            "public": true,
-            "snapshot_id": "NSwxNWMwYjU0NjlkZmQwNWVhZTYyZmI1ZDg2YTM5YjZlNTkxMTRjODQ4",
-            "tracks": {
-                "href": "https://api.spotify.com/v1/playlists/1ctkeLdOHEZOIDLj4c0veE/tracks",
-                "total": 1
-            },
-            "type": "playlist",
-            "uri": "spotify:playlist:1ctkeLdOHEZOIDLj4c0veE"
         },
         {
             "collaborative": false,
@@ -979,10 +1061,10 @@
             },
             "primary_color": null,
             "public": true,
-            "snapshot_id": "NCxkYWJmYTNmNDk1NDU2ODhjZTJhZjk3M2JmZWY4MzUxYjM5Yzg0NWZh",
+            "snapshot_id": "NSxkN2RiOGI3MGQ3YTM1NDliOWM5Y2NlNGIxMDk3MmIxNmI2ZTZmNmI0",
             "tracks": {
                 "href": "https://api.spotify.com/v1/playlists/73C4BlXTbDKag9ZgQ3tLUp/tracks",
-                "total": 2
+                "total": 3
             },
             "type": "playlist",
             "uri": "spotify:playlist:73C4BlXTbDKag9ZgQ3tLUp"
@@ -1051,10 +1133,10 @@
             },
             "primary_color": null,
             "public": true,
-            "snapshot_id": "MTc1LDVkMjU4NDg5ODI5ZDdiZTkzNjM3NjUyMzA3Nzg2NDU1NjQ5YzFmZTI=",
+            "snapshot_id": "MjAwLDkwMDA0ZWQ2ODc2YmE3OTViMzEzNjQ3YTEwYzA0MmJhZjM5NGViM2Q=",
             "tracks": {
                 "href": "https://api.spotify.com/v1/playlists/7uHp7xLLkHFvyKFJ7aWRcS/tracks",
-                "total": 167
+                "total": 190
             },
             "type": "playlist",
             "uri": "spotify:playlist:7uHp7xLLkHFvyKFJ7aWRcS"
@@ -1123,10 +1205,10 @@
             },
             "primary_color": null,
             "public": true,
-            "snapshot_id": "NTgsYTMzNjZiMzQwM2QxOTdkY2M2YTM1N2YzYTc4YWM1ZTJhMTg4MDFmOA==",
+            "snapshot_id": "NTksZDkxOWYyY2IzNmZjZmZlOTM0OTA1MjUzYzRkYTE4ZWIzOTkwMTliMw==",
             "tracks": {
                 "href": "https://api.spotify.com/v1/playlists/4aviCBa41VCu7S3mG1Fsrs/tracks",
-                "total": 54
+                "total": 55
             },
             "type": "playlist",
             "uri": "spotify:playlist:4aviCBa41VCu7S3mG1Fsrs"
@@ -1142,7 +1224,7 @@
             "images": [
                 {
                     "height": null,
-                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbc52f3b453e2efd2c51ad2a3d",
+                    "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebbc52f3b453e2efd2c51ad2a3d",
                     "width": null
                 }
             ],
@@ -1159,10 +1241,10 @@
             },
             "primary_color": null,
             "public": true,
-            "snapshot_id": "MjMsMzViYmFmNTUzMmEyZWI2ZTFhNTZiOTZlNmNjNDQ2N2JiOGE2NzdiMw==",
+            "snapshot_id": "MjQsNzFlMGZiYjhlODQxNmE2YWUzYTA3YzI5MTU4MGFiYmEzNGQzZjU1Mg==",
             "tracks": {
                 "href": "https://api.spotify.com/v1/playlists/0KCSe6tn2FvAl4PhR2Nrrh/tracks",
-                "total": 19
+                "total": 20
             },
             "type": "playlist",
             "uri": "spotify:playlist:0KCSe6tn2FvAl4PhR2Nrrh"
@@ -1325,6 +1407,42 @@
             "collaborative": false,
             "description": "",
             "external_urls": {
+                "spotify": "https://open.spotify.com/playlist/2GeG1cV2OOEsJ4cii396Qd"
+            },
+            "href": "https://api.spotify.com/v1/playlists/2GeG1cV2OOEsJ4cii396Qd",
+            "id": "2GeG1cV2OOEsJ4cii396Qd",
+            "images": [
+                {
+                    "height": 640,
+                    "url": "https://i.scdn.co/image/ab67616d0000b273b9e7e6ed55604d39f45b7ee6",
+                    "width": 640
+                }
+            ],
+            "name": "LMFAO",
+            "owner": {
+                "display_name": "Gan",
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/user/gandumb"
+                },
+                "href": "https://api.spotify.com/v1/users/gandumb",
+                "id": "gandumb",
+                "type": "user",
+                "uri": "spotify:user:gandumb"
+            },
+            "primary_color": null,
+            "public": true,
+            "snapshot_id": "MyxlNGI3YmNhM2QzOTgzMWE5N2I0NjgzNWI1N2IwOTVmN2Q0OGEzMjdl",
+            "tracks": {
+                "href": "https://api.spotify.com/v1/playlists/2GeG1cV2OOEsJ4cii396Qd/tracks",
+                "total": 1
+            },
+            "type": "playlist",
+            "uri": "spotify:playlist:2GeG1cV2OOEsJ4cii396Qd"
+        },
+        {
+            "collaborative": false,
+            "description": "",
+            "external_urls": {
                 "spotify": "https://open.spotify.com/playlist/36t1pVqPuFrajqBMpoI3NC"
             },
             "href": "https://api.spotify.com/v1/playlists/36t1pVqPuFrajqBMpoI3NC",
@@ -1368,7 +1486,7 @@
             "images": [
                 {
                     "height": null,
-                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebb45dcdd7df9cb02b75735b5be",
+                    "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebb45dcdd7df9cb02b75735b5be",
                     "width": null
                 }
             ],
@@ -1792,7 +1910,16 @@
             },
             "type": "playlist",
             "uri": "spotify:playlist:6LwuW4BVkdT97hlpKJqFnI"
-        },
+        }
+    ],
+    "limit": 50,
+    "next": "https://api.spotify.com/v1/users/gandumb/playlists?offset=50&limit=50",
+    "offset": 0,
+    "previous": null,
+    "total": 89
+}{
+    "href": "https://api.spotify.com/v1/users/gandumb/playlists?offset=50&limit=50",
+    "items": [
         {
             "collaborative": false,
             "description": "",
@@ -1900,16 +2027,7 @@
             },
             "type": "playlist",
             "uri": "spotify:playlist:0MIBJBbILwRlGe6omSy27h"
-        }
-    ],
-    "limit": 50,
-    "next": "https://api.spotify.com/v1/users/gandumb/playlists?offset=50&limit=50",
-    "offset": 0,
-    "previous": null,
-    "total": 86
-}{
-    "href": "https://api.spotify.com/v1/users/gandumb/playlists?offset=50&limit=50",
-    "items": [
+        },
         {
             "collaborative": false,
             "description": "",
@@ -2425,7 +2543,7 @@
             "images": [
                 {
                     "height": null,
-                    "url": "https://image-cdn-ak.spotifycdn.com/image/ab67706c0000bebbfb9af3116fd70979d9e02d14",
+                    "url": "https://image-cdn-fa.spotifycdn.com/image/ab67706c0000bebbfb9af3116fd70979d9e02d14",
                     "width": null
                 }
             ],
@@ -2465,7 +2583,7 @@
                     "width": null
                 }
             ],
-            "name": "Flavor of the Year (2023)",
+            "name": "(Archived) Flavor of the Year (2023)",
             "owner": {
                 "display_name": "Gan",
                 "external_urls": {
@@ -2478,7 +2596,7 @@
             },
             "primary_color": null,
             "public": true,
-            "snapshot_id": "NTMwLDhiNjhhYjJiODUwYzQ1OTYzYjM1YzVlNzBkZjkxZjI1YmE3NTQ0ZDE=",
+            "snapshot_id": "NTMxLDRkY2Y4MWY1NDhiNDEyYTJiZWJlYWRlMTlhZjJiNTYzYTlkMGFmZTg=",
             "tracks": {
                 "href": "https://api.spotify.com/v1/playlists/4IxjfE3Uztjks1iFKrXbo2/tracks",
                 "total": 444
@@ -2501,7 +2619,7 @@
                     "width": null
                 }
             ],
-            "name": "Rap",
+            "name": "(Archived) Rap",
             "owner": {
                 "display_name": "Gan",
                 "external_urls": {
@@ -2514,7 +2632,7 @@
             },
             "primary_color": null,
             "public": true,
-            "snapshot_id": "MjYwLGE2NTU4OTU3OGUyNTAyNjhiYjdhMTU1ZGJjZDQ0ODUyMTNjODI5NGU=",
+            "snapshot_id": "MjYxLDM5ODEzOTFhNTdiNTVhNDdiZTJjYzdkYTE2OGQ5MThjMzFjNWEwZjA=",
             "tracks": {
                 "href": "https://api.spotify.com/v1/playlists/17wExgZYB3cMTDxiK6DbAP/tracks",
                 "total": 242
@@ -2537,7 +2655,7 @@
                     "width": null
                 }
             ],
-            "name": "Flavor of the Year (2022)",
+            "name": "(Archived) Flavor of the Year (2022)",
             "owner": {
                 "display_name": "Gan",
                 "external_urls": {
@@ -2550,7 +2668,7 @@
             },
             "primary_color": null,
             "public": true,
-            "snapshot_id": "MTA2MCxhYmQzYjM4MjI1NGY0ZDhlNjVhMDUyYmIxMjJlODdjOTZhMzJmYmRi",
+            "snapshot_id": "MTA2MSw4OGJmMGEwMTM2OTE0YzljNmExNWRiNWI3NDlkMWQzZDQ0Y2Q3Mjlm",
             "tracks": {
                 "href": "https://api.spotify.com/v1/playlists/5wBVGqYKxOJ76WBF5HudWy/tracks",
                 "total": 933
@@ -2701,7 +2819,7 @@
                     "width": 60
                 }
             ],
-            "name": "Archived (Havin Fun)",
+            "name": "(Archived) Havin Fun",
             "owner": {
                 "display_name": "Gan",
                 "external_urls": {
@@ -2714,7 +2832,7 @@
             },
             "primary_color": null,
             "public": true,
-            "snapshot_id": "MTE2LDVhOTY3MjZjYzUwOTNiNmI0OTJiYWYyZDRmZTUzMzMzZTI5Mjc1MmU=",
+            "snapshot_id": "MTE3LDYxNGE3YTM5YTZhNjQ5ODM3ZDlkNmYwMWJhZDJhMjJmMDQ1N2M4NTU=",
             "tracks": {
                 "href": "https://api.spotify.com/v1/playlists/02up5FyLSSmFO5RnMD5uYY/tracks",
                 "total": 112
@@ -2793,7 +2911,7 @@
                     "width": 60
                 }
             ],
-            "name": "Archived (Chill)",
+            "name": "(Archived) Chill",
             "owner": {
                 "display_name": "Gan",
                 "external_urls": {
@@ -2806,7 +2924,7 @@
             },
             "primary_color": null,
             "public": true,
-            "snapshot_id": "MjUzLDc3YjdkMWFjZmI5NjgyMTYyYWQ0ODkxMWU1MjMwNmQ1NWE1MDkyZjM=",
+            "snapshot_id": "MjU0LDU2ZmY5MDc2NWYxYTk4MmRiYzU4NDViMjc5N2E4NTNmMWI2ZGVlZDI=",
             "tracks": {
                 "href": "https://api.spotify.com/v1/playlists/2cBwSxRAVURnhmLgJNohSr/tracks",
                 "total": 241
@@ -2875,7 +2993,7 @@
                     "width": 60
                 }
             ],
-            "name": "Vibe (Spring 2022)",
+            "name": "(Archived) Vibe (Spring 2022)",
             "owner": {
                 "display_name": "Gan",
                 "external_urls": {
@@ -2888,7 +3006,7 @@
             },
             "primary_color": null,
             "public": true,
-            "snapshot_id": "MjcsNzBlMjFjNTFjZDQ1YTE1MTA4OTQ0ZjVlZjllMWM2MzQyYjUxMzFkNQ==",
+            "snapshot_id": "MjksZjNhMDhmMTRlNWFmNmRjNGQzYjFkMmE5YjAwYmVmN2Q0ZDk1MjllMw==",
             "tracks": {
                 "href": "https://api.spotify.com/v1/playlists/6OCGsXggKunMgzMjHdhfjE/tracks",
                 "total": 26
@@ -3107,17 +3225,17 @@
             "images": [
                 {
                     "height": 640,
-                    "url": "https://mosaic.scdn.co/640/ab67616d0000b2733d7eddd9401e833c32809674ab67616d0000b2734475b69a7be22e08636a1e97ab67616d0000b2737b84994d656fe1683df19ec4ab67616d0000b273d00e504004a48159ac896b64",
+                    "url": "https://mosaic.scdn.co/640/ab67616d0000b27308448ea923362be5e25df9f0ab67616d0000b2733d7eddd9401e833c32809674ab67616d0000b2734475b69a7be22e08636a1e97ab67616d0000b273d00e504004a48159ac896b64",
                     "width": 640
                 },
                 {
                     "height": 300,
-                    "url": "https://mosaic.scdn.co/300/ab67616d0000b2733d7eddd9401e833c32809674ab67616d0000b2734475b69a7be22e08636a1e97ab67616d0000b2737b84994d656fe1683df19ec4ab67616d0000b273d00e504004a48159ac896b64",
+                    "url": "https://mosaic.scdn.co/300/ab67616d0000b27308448ea923362be5e25df9f0ab67616d0000b2733d7eddd9401e833c32809674ab67616d0000b2734475b69a7be22e08636a1e97ab67616d0000b273d00e504004a48159ac896b64",
                     "width": 300
                 },
                 {
                     "height": 60,
-                    "url": "https://mosaic.scdn.co/60/ab67616d0000b2733d7eddd9401e833c32809674ab67616d0000b2734475b69a7be22e08636a1e97ab67616d0000b2737b84994d656fe1683df19ec4ab67616d0000b273d00e504004a48159ac896b64",
+                    "url": "https://mosaic.scdn.co/60/ab67616d0000b27308448ea923362be5e25df9f0ab67616d0000b2733d7eddd9401e833c32809674ab67616d0000b2734475b69a7be22e08636a1e97ab67616d0000b273d00e504004a48159ac896b64",
                     "width": 60
                 }
             ],
@@ -3291,5 +3409,5 @@
     "next": null,
     "offset": 50,
     "previous": "https://api.spotify.com/v1/users/gandumb/playlists?offset=0&limit=50",
-    "total": 86
+    "total": 89
 }
